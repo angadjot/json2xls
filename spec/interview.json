@@ -1,0 +1,252 @@
+{
+  "interview": [
+    {
+      "type": null,
+      "name": "start",
+      "label": "How would you characterize your experience as an interviewer/interviewee?",
+      "tags": "exp_tags"
+    },
+    {
+      "type": null,
+      "name": "purposes",
+      "label": "What are some of the purposes of the interviews you've been involved in? (data gathering, recruiting, health diagnostics, investigative journalism)",
+      "tags": "none"
+    },
+    {
+      "type": null,
+      "name": "duration",
+      "label": "How long do your interviews usually last? Did you usually have an idea of how far along you are in the interview?",
+      "tags": null
+    },
+    {
+      "type": null,
+      "name": "sittings",
+      "label": "Have you participated in interviews that took place over multiple sittings? Does this seem to be a common case?",
+      "tags": null
+    },
+    {
+      "type": null,
+      "name": "medium",
+      "label": "Have your interviews been in person? on the phone? written response?",
+      "tags": null
+    },
+    {
+      "type": null,
+      "name": "admin",
+      "label": "Have you been involved in any interviewing projects in an administrative capacity? What tasks did you perform?",
+      "tags": "admin_tasks"
+    },
+    {
+      "type": "begin branch",
+      "name": null,
+      "label": "Administrative experience follow-up questions.",
+      "tags": null
+    },
+    {
+      "type": null,
+      "name": "challenges",
+      "label": "Which tasks do you find the most challenging or time consuming?",
+      "tags": null
+    },
+    {
+      "type": null,
+      "name": "experience",
+      "label": "What level of training or experience is typically required in your interviews?",
+      "tags": null
+    },
+    {
+      "type": null,
+      "name": "branching",
+      "label": "Have you administered any interviews with branching logic?",
+      "tags": null
+    },
+    {
+      "type": null,
+      "name": "follow-ups",
+      "label": "Do you tend to ask follow-up questions beyond what is suggested in the survey?\r\nHow/when do they usually occur? How are they dealt with in coding?",
+      "tags": null
+    },
+    {
+      "type": null,
+      "name": "recording",
+      "label": "Are your interviews recorded?\r\nHave you encountered any limitations in being allowed to record?",
+      "tags": null
+    },
+    {
+      "type": null,
+      "name": "notes",
+      "label": "Do you take notes during your interviews?",
+      "tags": null
+    },
+    {
+      "type": null,
+      "name": "contingencies",
+      "label": "Have you ever needed to discard recordings/notes that you collected?",
+      "tags": null
+    },
+    {
+      "type": "end branch",
+      "name": null,
+      "label": null,
+      "tags": null
+    },
+    {
+      "type": "begin branch",
+      "name": null,
+      "label": "No administrative experience.",
+      "tags": null
+    },
+    {
+      "type": "end branch",
+      "name": null,
+      "label": null,
+      "tags": null
+    },
+    {
+      "type": null,
+      "name": "comments",
+      "label": "Do you have any comments about the tool I am using? About the interview experience as a whole?",
+      "tags": null
+    },
+    {
+      "type": null,
+      "name": null,
+      "label": null,
+      "tags": null
+    },
+    {
+      "type": null,
+      "name": null,
+      "label": null,
+      "tags": null
+    },
+    {
+      "type": null,
+      "name": null,
+      "label": null,
+      "tags": null
+    },
+    {
+      "type": null,
+      "name": null,
+      "label": null,
+      "tags": null
+    }
+  ],
+  "tags": [
+    {
+      "group": "default",
+      "name": "important",
+      "label": "important",
+      "imagePath": null
+    },
+    {
+      "group": "default",
+      "name": "tangential",
+      "label": "tangential",
+      "imagePath": null
+    },
+    {
+      "group": "default",
+      "name": "star",
+      "label": null,
+      "imagePath": "star.png"
+    },
+    {
+      "group": "admin_tasks",
+      "name": "interview designer",
+      "label": "interview designer",
+      "imagePath": null
+    },
+    {
+      "group": "admin_tasks",
+      "name": "interviewer",
+      "label": "interviewer",
+      "imagePath": null
+    },
+    {
+      "group": "admin_tasks",
+      "name": "datas analysis",
+      "label": "datas analysis",
+      "imagePath": null
+    },
+    {
+      "group": "exp_tags",
+      "name": "highly experienced interviewer",
+      "label": "highly experienced interviewer",
+      "imagePath": null
+    },
+    {
+      "group": "exp_tags",
+      "name": "highly experienced interviewee",
+      "label": "highly experienced interviewee",
+      "imagePath": null
+    },
+    {
+      "group": null,
+      "name": null,
+      "label": null,
+      "imagePath": null
+    },
+    {
+      "group": null,
+      "name": null,
+      "label": null,
+      "imagePath": null
+    },
+    {
+      "group": null,
+      "name": null,
+      "label": null,
+      "imagePath": null
+    },
+    {
+      "group": null,
+      "name": null,
+      "label": null,
+      "imagePath": null
+    },
+    {
+      "group": null,
+      "name": null,
+      "label": null,
+      "imagePath": null
+    },
+    {
+      "group": null,
+      "name": null,
+      "label": null,
+      "imagePath": null
+    },
+    {
+      "group": null,
+      "name": null,
+      "label": null,
+      "imagePath": null
+    },
+    {
+      "group": null,
+      "name": null,
+      "label": null,
+      "imagePath": null
+    },
+    {
+      "group": null,
+      "name": null,
+      "label": null,
+      "imagePath": null
+    },
+    {
+      "group": null,
+      "name": null,
+      "label": null,
+      "imagePath": null
+    },
+    {
+      "group": null,
+      "name": null,
+      "label": null,
+      "imagePath": null
+    }
+  ]
+}
